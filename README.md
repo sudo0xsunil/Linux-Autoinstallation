@@ -1,4 +1,4 @@
-# 🚀 Ubuntu Autoinstall for Proxmox
+# 🚀 Linux Autoinstall for Proxmox
 
 ### Fully Automated Ubuntu 24.04 LTS Unattended Installer  
 **Built and maintained by [Sunil Kumar (@sudo0xsunil)](https://github.com/sudo0xsunil)**
